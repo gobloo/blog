@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mayhem THM Writeup
+title: 🕵️‍♂️ Mayhem THM Writeup
 date: 24-04-2025
 categories: [THM, writeup]
 tag: [Forensics, DFIR, THM]
