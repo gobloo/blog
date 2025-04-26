@@ -16,7 +16,7 @@ timezone: Africa/Algiers
 
 title: GOBLO # the main title
 
-tagline: Cybersecurity Engineer| ASOC Incident Response Engineer "https://tryhackme-badges.s3.amazonaws.com/5ob10.png" # it will display as the subtitle
+tagline: Cybersecurity Engineer| ASOC Incident Response Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Where Cybersecurity is Fun!
@@ -102,7 +102,7 @@ avatar: https://avatars.githubusercontent.com/u/56554238?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: https://tryhackme-badges.s3.amazonaws.com/5ob10.png # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
