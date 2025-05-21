@@ -165,10 +165,10 @@ for i, chunk in enumerate(chunks):
 
 Successfully:
 
-    - extracted and identified a hidden JPEG image containing the flag.
-    - Recovered fragmented images embedded in the data stream.
-    - Reconstructed the images into a video file.
-    - Retrieved the final flag from the recovered footage.
+- extracted and identified a hidden JPEG image containing the flag.
+- Recovered fragmented images embedded in the data stream.
+- Reconstructed the images into a video file.
+- Retrieved the final flag from the recovered footage.
 
 ---
 
