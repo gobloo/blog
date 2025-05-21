@@ -98,13 +98,12 @@ File type recognized as a **JPEG JFIF image**.
     ls *.jpg | sort | sed "s/^/file '/; s/$/'/" > images.txt
     ```
 
-
-2. Used video creation tool **`ffmpeg`** to assemble images into an MP4 video.
-
-```bash
-ffmpeg -f concat -safe 0 -i images.txt -vsync vfr -pix_fmt yuv420p -c:v libx264 flag.mp4
-```
-![video recration](https://raw.githubusercontent.com/gobloo/blog/refs/heads/main/_posts/Footage/images/18_flag_video_creation.png)
+2. Used video creation tool **`ffmpeg`**
+    - Assemble images into an MP4 video
+    ```bash
+    ffmpeg -f concat -safe 0 -i images.txt -vsync vfr -pix_fmt yuv420p -c:v libx264 flag.mp4
+    ```
+    ![video recration](https://raw.githubusercontent.com/gobloo/blog/refs/heads/main/_posts/Footage/images/18_flag_video_creation.png)
 
 3. The reconstructed video revealed the **final flag**.
 ![Final flag](https://raw.githubusercontent.com/gobloo/blog/refs/heads/main/_posts/Footage/images/19_flag_mp4.png)
