@@ -10,7 +10,7 @@ tag: [Forensics, DFIR, THM]
 
 Ever unraveled a seemingly ordinary PCAP file only to discover a hidden trove of digital clues? This challenge was exactly that kind of forensic puzzle — diving deep into network traffic to recover destroyed security footage. From dissecting TCP streams and decoding hex dumps to carving out fragmented images and reconstructing video footage, this investigation tested every step of the forensic toolkit. Join me as I break down the process, relying solely on command-line tools and scripting to piece together the story hidden in the chaos of captured packets.
 
-![Security Footage](https://raw.githubusercontent.com/gobloo/blog/refs/heads/main/_posts/Footage/images/chall.png)
+![Security Footage](https://raw.githubusercontent.com/gobloo/blog/refs/heads/main/_posts/Footage/images/chall0.png)
 
 
 ## 📘 Challenge Overview
@@ -150,7 +150,7 @@ def save_chunk_as_file(chunk, chunk_number):
     print(f"Saved chunk_{chunk_number}.jpg")
 
 # usage
-data = open("footage.txt").read()
+data = open("tcp_follow_0.txt").read()
 chunks = split_chunks(data)
 
 # save each chunk in a file
