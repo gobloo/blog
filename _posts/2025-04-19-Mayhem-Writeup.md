@@ -213,6 +213,6 @@ Successfully:
 
 ---
 
-> 🏁 *Flag successfully retrieved through decrypted traffic.*
+> 🏁 *Flag successfully retrieved by recovering data from the destroyed hard drive*
 
 
