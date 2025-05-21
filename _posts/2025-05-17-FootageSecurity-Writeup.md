@@ -18,10 +18,10 @@ Ever unraveled a seemingly ordinary PCAP file only to discover a hidden trove of
 **Room Link:** [Security Footage](https://tryhackme.com/room/securityfootage)
 
 > Perform digital forensics on a network capture to recover footage from a camera.
-
 > Someone broke into our office last night, but they destroyed the hard drives with the security footage. Can you recover the footage?
-
 > Today chall will be based on CLI only, bit challenging since I was using WSL not my kali machine. lets see how do i solve it.
+
+
 ---
 
 ## 🔍 Initial Network Analysis
