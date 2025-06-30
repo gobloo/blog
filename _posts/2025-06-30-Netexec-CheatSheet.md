@@ -8,7 +8,7 @@ tag: [Red Team, Pentest, AD]
 
 # Netexec/nxc CheatSheet:
 
-Below is a **comprehensive table of NetExec (nxc) commands**, organized by the main phases of a typical penetration test: **Enumeration, Credential Access, Exploitation, Lateral Movement, Post-Exploitation, and Persistence**. This table is designed for quick reference and covers the most relevant options and modules for each phase[^1][^2][^3].
+Below is a **comprehensive table of NetExec (nxc) commands**, organized by the main phases of a typical penetration test: **Enumeration, Credential Access, Exploitation, Lateral Movement, Post-Exploitation, and Persistence**. This table is designed for quick reference and covers the most relevant options and modules for each phase.
 
 ## NetExec / nxc Command Table by Phase
 
@@ -75,14 +75,14 @@ Below is a **comprehensive table of NetExec (nxc) commands**, organized by the m
 
 **References:**
 
-- [StationX NetExec Cheat Sheet](https://www.stationx.net/netexec-cheat-sheet/)[^1]
-- [Ben Heater’s NetExec Notes](https://notes.benheater.com/books/active-directory/page/netexec)[^2]
-- [NetExec Wiki](https://www.netexec.wiki)[^4]
-- [seriotonctf/cme-nxc-cheat-sheet](https://github.com/seriotonctf/cme-nxc-cheat-sheet)[^3]
-- [NetExec Database Usage](https://www.netexec.wiki/getting-started/database-general-usage)[^5]
-- https://www.linkedin.com/posts/housenathan_netexec-cheat-sheet-essential-commands-activity-7300440179683610624-WxmG
-- https://www.hackingarticles.in/active-directory-pentesting-using-netexec-tool-a-complete-guide/
-- https://swisskyrepo.github.io/InternalAllTheThings/active-directory/internal-shares/
-- https://research.splunk.com/endpoint/adbff89c-c1f2-4a2e-88a4-b5e645856510/
-- https://github.com/Pennyw0rth/NetExec-Wiki/blob/main/getting-started/selecting-and-using-a-protocol.md
+- [StationX NetExec Cheat Sheet](https://www.stationx.net/netexec-cheat-sheet/)
+- [Ben Heater’s NetExec Notes](https://notes.benheater.com/books/active-directory/page/netexec)
+- [NetExec Wiki](https://www.netexec.wiki)
+- [seriotonctf/cme-nxc-cheat-sheet](https://github.com/seriotonctf/cme-nxc-cheat-sheet)
+- [NetExec Database Usage](https://www.netexec.wiki/getting-started/database-general-usage)
+- [Netexec Linkedin](https://www.linkedin.com/posts/housenathan_netexec-cheat-sheet-essential-commands-activity-7300440179683610624-WxmG)
+- [Hacking article]https://www.hackingarticles.in/active-directory-pentesting-using-netexec-tool-a-complete-guide/)
+- [AD](https://swisskyrepo.github.io/InternalAllTheThings/active-directory/internal-shares/)
+- [Splunk](https://research.splunk.com/endpoint/adbff89c-c1f2-4a2e-88a4-b5e645856510/)
+- [Netexec Wiki Github](https://github.com/Pennyw0rth/NetExec-Wiki/blob/main/getting-started/selecting-and-using-a-protocol.md)
 
