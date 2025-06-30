@@ -81,7 +81,7 @@ Below is a **comprehensive table of NetExec (nxc) commands**, organized by the m
 - [seriotonctf/cme-nxc-cheat-sheet](https://github.com/seriotonctf/cme-nxc-cheat-sheet)
 - [NetExec Database Usage](https://www.netexec.wiki/getting-started/database-general-usage)
 - [Netexec Linkedin](https://www.linkedin.com/posts/housenathan_netexec-cheat-sheet-essential-commands-activity-7300440179683610624-WxmG)
-- [Hacking article]https://www.hackingarticles.in/active-directory-pentesting-using-netexec-tool-a-complete-guide/)
+- [Hacking article](https://www.hackingarticles.in/active-directory-pentesting-using-netexec-tool-a-complete-guide/)
 - [AD](https://swisskyrepo.github.io/InternalAllTheThings/active-directory/internal-shares/)
 - [Splunk](https://research.splunk.com/endpoint/adbff89c-c1f2-4a2e-88a4-b5e645856510/)
 - [Netexec Wiki Github](https://github.com/Pennyw0rth/NetExec-Wiki/blob/main/getting-started/selecting-and-using-a-protocol.md)
