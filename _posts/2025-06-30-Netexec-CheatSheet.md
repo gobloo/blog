@@ -75,31 +75,14 @@ Below is a **comprehensive table of NetExec (nxc) commands**, organized by the m
 
 **References:**
 
-- [StationX NetExec Cheat Sheet][^1]
-- [Ben Heater’s NetExec Notes][^2]
-- [NetExec Wiki][^4]
-- [seriotonctf/cme-nxc-cheat-sheet][^3]
-- [NetExec Database Usage][^5]
-
-This table provides a **quick, phase-based reference** for NetExec/nxc usage in real-world penetration testing engagements.
-
-[^1]: https://www.stationx.net/netexec-cheat-sheet/
-
-[^2]: https://notes.benheater.com/books/active-directory/page/netexec
-
-[^3]: https://github.com/seriotonctf/cme-nxc-cheat-sheet
-
-[^4]: https://www.netexec.wiki
-
-[^5]: https://www.netexec.wiki/getting-started/database-general-usage
-
-[^6]: https://www.linkedin.com/posts/housenathan_netexec-cheat-sheet-essential-commands-activity-7300440179683610624-WxmG
-
-[^7]: https://www.hackingarticles.in/active-directory-pentesting-using-netexec-tool-a-complete-guide/
-
-[^8]: https://swisskyrepo.github.io/InternalAllTheThings/active-directory/internal-shares/
-
-[^9]: https://research.splunk.com/endpoint/adbff89c-c1f2-4a2e-88a4-b5e645856510/
-
-[^10]: https://github.com/Pennyw0rth/NetExec-Wiki/blob/main/getting-started/selecting-and-using-a-protocol.md
+- [StationX NetExec Cheat Sheet](https://www.stationx.net/netexec-cheat-sheet/)[^1]
+- [Ben Heater’s NetExec Notes](https://notes.benheater.com/books/active-directory/page/netexec)[^2]
+- [NetExec Wiki](https://www.netexec.wiki)[^4]
+- [seriotonctf/cme-nxc-cheat-sheet](https://github.com/seriotonctf/cme-nxc-cheat-sheet)[^3]
+- [NetExec Database Usage](https://www.netexec.wiki/getting-started/database-general-usage)[^5]
+- https://www.linkedin.com/posts/housenathan_netexec-cheat-sheet-essential-commands-activity-7300440179683610624-WxmG
+- https://www.hackingarticles.in/active-directory-pentesting-using-netexec-tool-a-complete-guide/
+- https://swisskyrepo.github.io/InternalAllTheThings/active-directory/internal-shares/
+- https://research.splunk.com/endpoint/adbff89c-c1f2-4a2e-88a4-b5e645856510/
+- https://github.com/Pennyw0rth/NetExec-Wiki/blob/main/getting-started/selecting-and-using-a-protocol.md
 
