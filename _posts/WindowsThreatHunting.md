@@ -2,7 +2,6 @@
 
 ## Initial Access:
 
-- 
 
 **Exposed Services**
 - Putting a Windows server directly on the Internet is a common task for IT teams. However, every exposed service introduces major security risks.

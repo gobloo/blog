@@ -1,3 +1,11 @@
+---
+layout: post
+title: Windows Enumeration CheatSheet
+date: 16-12-2025
+categories: [CheatSheet]
+tag: [Red Team, Enumeration, Windows, Pentesting]
+---
+
 # Windows Enumeration Cheatsheet
 
 ## Complete Windows Enumeration Commands
@@ -78,8 +86,6 @@ Administrator          michael             peter               strategos
 | **SNMP** | `snmpcheck.rb TARGET -c public` | SNMP enumeration | AttackBox: `/opt/snmpcheck/` |
 | | `snmpwalk -v2c -c public TARGET` | SNMP walk | OID: `1.3.6.1.2.1.1.6.0` (location) |
 
-
-<div align="center">⁂</div>
 
 
 
