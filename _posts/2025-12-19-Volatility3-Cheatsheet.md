@@ -58,9 +58,6 @@ vol -f mem.dmp windows.psscan
 # Filter by PID
 vol -f mem.dmp windows.pslist --pid 1234
 
-# Filter by process name
-vol -f mem.dmp windows.pslist --name "explorer.exe"
-
 # Command line arguments
 vol -f mem.dmp windows.cmdline --pid 1234
 
@@ -261,17 +258,9 @@ vol -f mem.dmp windows.pslist --output table
 # By PID
 --pid 1234
 
-# By process name
---name "lsass.exe"
-
 # By parent PID
 --ppid 456
 
-# By object type (handles)
---object-type Mutant
-
-# Multiple filters
-vol -f mem.dmp windows.handles --pid 1234 --object-type File
 ```
 
 
@@ -293,15 +282,13 @@ vol -f mem.dmp windows.handles --pid 1234 --object-type File
 
 1. **Always run `imageinfo` first** to get correct profile
 2. **Use `--dump-dir`** to save all artifacts automatically
-3. **Combine filters**: `--pid 1234 --name lsass.exe`
+3. **Combine filters**: `--pid 1234 `
 4. **Pipe output**: `vol ... | grep -i suspicious`
 5. **JSON for scripting**: `--output json`
 6. **LSASS analysis flow**:
 
 ```
-windows.pslist --name lsass.exe
 windows.memdump --pid <lsass_pid>
-windows.handles --pid <lsass_pid> --object-type Key
 ```
 
 
